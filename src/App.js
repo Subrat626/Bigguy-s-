@@ -1,5 +1,4 @@
 import './App.css';
-import 'materialize-css/dist/css/materialize.min.css'
 import Logo from './assets/logo.png';
 import mLogo from './assets/mobile_logo.png';
 import WhiteLogo from './assets/white_logo.png';
